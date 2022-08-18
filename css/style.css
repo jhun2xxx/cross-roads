@@ -61,6 +61,8 @@ nav {
   color: white;
   font-size: 14px;
   letter-spacing: 2px;
+  font-weight: bold;
+  text-transform: uppercase;
 
 }
 
@@ -435,6 +437,8 @@ article {
     position: absolute;
     bottom: 40%;
     width: 100%;
+    background: #00000026;
+    padding: 20px;
 }
 
 .floater h1,
